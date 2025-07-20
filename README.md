@@ -1,6 +1,6 @@
 ## Jiwon's Github 😎
 
-[![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjw310)](https://github.com/sjw310/github-readme-stats)
 
 <!--
 **sjw310/sjw310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
