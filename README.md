@@ -1,5 +1,5 @@
-# Jiwon Seong's Github 👋
-
+# Jiwon's Github
+---
 <!--
 **sjw310/sjw310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
