@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h2>Jiwon's GitHub 🔭</h2>
+  <h1>Jiwon's GitHub 🔭</h1>
 </div>
 <!--
 **sjw310/sjw310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
