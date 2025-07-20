@@ -1,4 +1,4 @@
-## Jiwon's Github 😎
+Jiwon's Github
 
 [![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjw310)](https://github.com/sjw310/github-readme-stats)
 
